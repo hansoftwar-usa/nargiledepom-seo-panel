@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="NargileDepom">
+  <defs>
+    <radialGradient id="bg" cx="30%" cy="12%" r="100%">
+      <stop offset="0" stop-color="#20263a"/>
+      <stop offset="1" stop-color="#0b0d12"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd88a"/>
+      <stop offset="1" stop-color="#e9a63a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
+  <circle cx="256" cy="250" r="168" fill="none" stroke="#f4b64a" stroke-opacity=".14" stroke-width="2"/>
+  <g fill="none" stroke="url(#gold)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M204 318c0-33 22-47 52-47s52 14 52 47c0 34-22 49-52 49s-52-15-52-49Z"/>
+    <path d="M213 331c20 11 66 11 86 0" stroke-opacity=".75"/>
+    <path d="M256 271v-59"/>
+    <path d="M232 212h48l-8-24h-32l-8 24Z"/>
+    <path d="M256 188v-9"/>
+    <path d="M185 385h142"/>
+    <path d="M302 334c36 6 45 34 29 52"/>
+  </g>
+  <circle cx="256" cy="174" r="8" fill="#ffd88a"/>
+  <circle cx="256" cy="363" r="7" fill="#f4b64a" fill-opacity=".55"/>
+</svg>

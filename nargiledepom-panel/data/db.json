@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "site": "nargiledepom.com",
+  "createdAt": "2026-11-02T10:25:46.984Z",
+  "auth": {
+    "salt": "e0fba16d9f1129195c543338900447df",
+    "hash": "ea26216fae0218cf35306461f474ec2a9621f51a18460d3bdcbfe7ae3bb4bf8b04e7e5b0f021f64d2b2560688d099f2601148e9662ef278cb5e90886e65257fe"
+  },
+  "sessions": [
+    {
+      "h": "ed09537b1e1411f1cc574764e1669800c44e6cd452a13e860c4b6433ece43ae8",
+      "exp": 1796258910610,
+      "created": 1793666910610
+    }
+  ],
+  "backlinks": [],
+  "keywords": [],
+  "tasks": [],
+  "notes": []
+}
